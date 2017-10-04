@@ -1,0 +1,376 @@
+--------[ 鲁大师 ]--------------------------------------------------------------------------------
+
+  软件:             鲁大师 5.13.16.1085
+  时间:             2016-06-02 01:44:15
+  网站:             http://www.ludashi.com
+
+--------[ 概览 ]----------------------------------------------------------------------------------
+
+  电脑型号            技嘉 B85M-D3H 台式电脑
+  操作系统            Windows 10 专业版 64位 ( DirectX 12 )
+
+  处理器              英特尔 第四代酷睿 i5-4690K @ 3.50GHz 四核
+  主板                技嘉 B85M-D3H ( 英特尔 Haswell )
+  显卡                Nvidia GeForce GTX 960 ( 2 GB / 技嘉 )
+  内存                8 GB ( 金士顿 DDR3 1600MHz )
+  主硬盘              浦科特 PX-128M6S ( 128 GB / 固态硬盘 )
+  显示器              明基 BNQ78CA BenQ GW2760HS ( 27.2 英寸  )
+  声卡                英特尔 英特尔 显示器音频 @ 英特尔 Haswell  高保真音频
+  网卡                瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 技嘉
+
+--------[ 主板 ]----------------------------------------------------------------------------------
+
+  主板型号            技嘉 B85M-D3H
+  芯片组              英特尔 Haswell
+  主板版本            x.x
+  BIOS                American Megatrends Inc. F14  /  制造日期: 2014年09月19日
+  BIOS的大小          8192 KB
+  BIOS的序列号        63-0100-000001-00101111-041312-Chipset
+
+  板载设备            视频设备 (启用)
+
+--------[ 处理器 ]--------------------------------------------------------------------------------
+
+  处理器              英特尔 第四代酷睿 i5-4690K @ 3.50GHz 四核
+  步进                C0
+  速度                3.70 GHz (112 MHz x 33.0)
+  处理器数量          核心数: 4 / 线程数: 4
+  核心代号            Haswell
+  生产工艺            22 纳米
+  插槽/插座           Socket H3 (LGA 1150)
+  一级数据缓存        2 x 32 KB, 8-Way, 64 byte lines
+  一级代码缓存        2 x 32 KB, 8-Way, 64 byte lines
+  二级缓存            2 x 256 KB, 8-Way, 64 byte lines
+  三级缓存            6 MB, 12-Way, 64 byte lines
+  特征                MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, EM64T, EIST, Turbo Boost
+
+--------[ 硬盘 ]----------------------------------------------------------------------------------
+
+  产品                浦科特  PX-128M6S (固态硬盘)
+  大小                128 GB
+  缓存                256 MB
+  硬盘已使用          共 605 次
+  固件                1.07    
+  接口                SATA III
+  数据传输率          600.00 MB/秒
+  特征                S.M.A.R.T,  48-bit LBA,  NCQ
+
+  产品                西数 WDC WD10EZEX-00BN5A0
+  大小                1 TB
+  转速                7200 转/分
+  缓存                64 MB
+  硬盘已使用          共 600 次，累计 3075 小时
+  固件                01.01A01
+  接口                SATA III
+  数据传输率          600.00 MB/秒
+  特征                S.M.A.R.T,  48-bit LBA,  NCQ
+
+--------[ 内存 ]----------------------------------------------------------------------------------
+
+  ChannelA-DIMM0      金士顿 DDR3 1600MHz 8GB
+  制造日期            2015 年 01月
+  型号                7F98 KHX1600C10D3/8G
+  序列号              671F3C5D
+  厂商                Kingston
+  模块位宽:           64 Bits
+  模块电压:           SSTL 1.5V
+
+--------[ 显卡 ]----------------------------------------------------------------------------------
+
+  显卡                英特尔 HD Graphics 4600
+  显存                112 MB
+  制造商              技嘉
+  制造商              Intel
+  BIOS日期            2015年01月06日
+  驱动版本            20.19.15.4352
+  驱动日期            2015年12月15日
+
+  主显卡              Nvidia GeForce GTX 960
+  显存                2 GB
+  制造商              技嘉
+  制造商              Nvidia
+  BIOS日期            2015年01月06日
+  驱动版本            10.18.13.6510
+  驱动日期            2016年04月27日
+
+--------[ 显示器 ]--------------------------------------------------------------------------------
+
+  产品                明基 BNQ78CA BenQ GW2760HS
+  厂商                明基
+  固件日期            2014 年 12月
+  屏幕尺寸            27.2 英寸 (60 厘米 x 34 厘米)
+  显示比例            宽屏 16 : 9
+  分辨率              1920 x 1080 32 位真彩色
+  Gamma               2.20
+  电源管理            Active-Off
+
+--------[ 其他设备 ]------------------------------------------------------------------------------
+
+
+  网卡                瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller
+  制造商              技嘉
+
+  声卡                英特尔 英特尔 显示器音频 @ 英特尔 Haswell HD Audio Controller
+
+  声卡                英特尔 Lynx Point HD Audio Controller
+
+  声卡                Nvidia High Definition Audio Controller
+
+  键盘                HID 标准键盘
+  键盘                HID 标准键盘
+  键盘                HID 标准键盘
+  键盘                HID 标准键盘
+  鼠标                HID-compliant 鼠标
+
+
+--------[ PCI设备 ]-------------------------------------------------------------------------------
+
+  设备                Haswell DRAM Controller
+  设备ID              0C00
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to HOST
+  子系统制造商        Gigabyte
+  子系统ID            50001458
+
+  设备                Haswell PCI Express x16 Controller
+  设备ID              0C01
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                HD Graphics 4600
+  设备ID              0412
+  制造商              Intel
+  制造商ID            8086
+  类别                Display / VGA
+  子系统制造商        Gigabyte
+  子系统ID            D0001458
+
+  设备                Haswell HD Audio Controller
+  设备ID              0C0C
+  制造商              Intel
+  制造商ID            8086
+  类别                Multimedia / Hi-definition Audio
+  子系统制造商        Intel
+  子系统ID            20108086
+
+  设备                Lynx Point USB xHCI Host Controller
+  设备ID              8C31
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / USB (UHCI)
+  子系统制造商        Gigabyte
+  子系统ID            50071458
+
+  设备                Lynx Point MEI Controller #1
+  设备ID              8C3A
+  制造商              Intel
+  制造商ID            8086
+  类别                Simple Communication / Other
+  子系统制造商        Gigabyte
+  子系统ID            1C3A1458
+
+  设备                Lynx Point KT Controller
+  设备ID              8C3D
+  制造商              Intel
+  制造商ID            8086
+  类别                Simple Communication / Serial - 16550
+  子系统制造商        Gigabyte
+  子系统ID            1C3A1458
+
+  设备                Lynx Point USB Enhanced Host Controller #2
+  设备ID              8C2D
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / USB 2.0 (EHCI)
+  子系统制造商        Gigabyte
+  子系统ID            50061458
+
+  设备                Lynx Point HD Audio Controller
+  设备ID              8C20
+  制造商              Intel
+  制造商ID            8086
+  类别                Multimedia / Hi-definition Audio
+  子系统制造商        Gigabyte
+  子系统ID            A0021458
+
+  设备                Lynx Point PCI Express Root Port 1
+  设备ID              8C10
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                Lynx Point PCI Express Root Port 3
+  设备ID              8C14
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                Lynx Point USB Enhanced Host Controller #1
+  设备ID              8C26
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / USB 2.0 (EHCI)
+  子系统制造商        Gigabyte
+  子系统ID            50061458
+
+  设备                Lynx Point LPC Controller
+  设备ID              8C50
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to ISA
+  子系统制造商        Gigabyte
+  子系统ID            50011458
+
+  设备                Lynx Point 6-Port SATA AHCI Controller
+  设备ID              8C02
+  制造商              Intel
+  制造商ID            8086
+  类别                Storage / Serial ATA (AHCI 1.0)
+  子系统制造商        Gigabyte
+  子系统ID            B0051458
+
+  设备                Lynx Point SMBus Controller
+  设备ID              8C22
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / SMBus Controller
+  子系统制造商        Gigabyte
+  子系统ID            50011458
+
+  设备                Lynx Point Thermal Management Controller
+  设备ID              8C24
+  制造商              Intel
+  制造商ID            8086
+  类别                Data Aquisition & Signal Processing / Other
+  子系统制造商        Gigabyte
+  子系统ID            50001458
+
+  设备                GeForce GTX 960
+  设备ID              1401
+  制造商              Nvidia
+  制造商ID            10DE
+  类别                Display / VGA
+  子系统制造商        Gigabyte
+  子系统ID            36921458
+
+  设备                High Definition Audio Controller
+  设备ID              0FBA
+  制造商              Nvidia
+  制造商ID            10DE
+  类别                Multimedia / Hi-definition Audio
+  子系统制造商        Gigabyte
+  子系统ID            36921458
+
+  设备                RTL8168/8111/8112 Gigabit Ethernet Controller
+  设备ID              8168
+  制造商              Realtek
+  制造商ID            10EC
+  类别                Network / Ethernet
+  子系统制造商        Gigabyte
+  子系统ID            E0001458
+
+--------[ USB设备 ]-------------------------------------------------------------------------------
+
+  制造商ID            09DA
+  产品ID              53EE
+  类别                0 / 0 / 0
+  设备                COMPANY USB Device
+  Serial              ?
+  版本                USB 1.1
+
+  制造商ID            05AC
+  产品ID              12A8
+  类别                0 / 0 / 0
+  设备                Apple Inc. iPhone
+  Serial              0dc4f32e825bab55cfe2645d4f962c796abaa995
+  版本                USB 2.0
+
+  制造商ID            B404
+  产品ID              0101
+  类别                0 / 0 / 0
+  设备                Megawin Technology Inc. Programmable Keyboard
+  Serial              ?
+  版本                USB 1.1
+
+--------[ 传感器 ]--------------------------------------------------------------------------------
+
+  名称                ITE IT8728
+  CPU温度             41℃
+  主板                38℃
+  显卡                42℃
+  硬盘温度            36℃
+  风扇                1896转
+
+	
+2016/07/03	
+产品	浦科特  PX-128M6S (固态硬盘)
+容量	128 GB
+形状特征	2.5 寸
+缓存	256 MB
+硬盘已使用	共 666 次
+固件	1.07    
+接口	SATA III
+数据传输率	600.00 MB/秒
+特征	S.M.A.R.T,  48-bit LBA,  NCQ
+主控制器	Marvell Monet Lite 88SS9188
+闪存类型	Toshiba 19nm MLC NAN
+顺序读取速率	520 MB/秒
+顺序写入速率	300 MB/秒
+4K随机读取	88 KIOPS
+4K随机写入	75 KIOPS
+外形尺寸	69.85 x 100.00 x 6.80 毫米
+	
+产品	西数 WDC WD10EZEX-00BN5A0
+容量	1 TB
+形状特征	3.5 寸
+转速	7200 转/分
+缓存	64 MB
+硬盘已使用	共 661 次，累计 3346 小时
+固件	01.01A01
+接口	SATA III
+数据传输率	600.00 MB/秒
+内部数据传输率	1200.00 Mb/秒
+特征	S.M.A.R.T,  48-bit LBA,  NCQ
+延迟时间	4.20 毫秒
+外形尺寸	101.60 x 147.00 x 25.40 毫米
+重量	440 克
+
+
+2016.08.15	
+产品	浦科特  PX-128M6S (固态硬盘)
+容量	128 GB
+形状特征	2.5 寸
+缓存	256 MB
+硬盘已使用	共 722 次
+固件	1.07    
+接口	SATA III
+数据传输率	600.00 MB/秒
+特征	S.M.A.R.T,  48-bit LBA,  NCQ
+主控制器	Marvell Monet Lite 88SS9188
+闪存类型	Toshiba 19nm MLC NAN
+顺序读取速率	520 MB/秒
+顺序写入速率	300 MB/秒
+4K随机读取	88 KIOPS
+4K随机写入	75 KIOPS
+外形尺寸	69.85 x 100.00 x 6.80 毫米
+	
+产品	西数 WDC WD10EZEX-00BN5A0
+容量	1 TB
+形状特征	3.5 寸
+转速	7200 转/分
+缓存	64 MB
+硬盘已使用	共 717 次，累计 3573 小时
+固件	01.01A01
+接口	SATA III
+数据传输率	600.00 MB/秒
+内部数据传输率	1200.00 Mb/秒
+特征	S.M.A.R.T,  48-bit LBA,  NCQ
+延迟时间	4.20 毫秒
+外形尺寸	101.60 x 147.00 x 25.40 毫米
+重量	440 克
+	
